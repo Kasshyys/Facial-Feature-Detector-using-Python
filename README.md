@@ -1,4 +1,4 @@
-🧠 Face, Eye & Smile Detection using OpenCV
+#🧠 Face, Eye & Smile Detection using OpenCV
 This Python project uses Haar Cascade Classifiers from OpenCV to detect faces, eyes, and smiles in a static image.
 
 👁️ Multi-scale object detection
